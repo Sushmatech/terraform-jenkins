@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "sush-bucket97" {
+resource "aws_s3_bucket" "sush-bucket1997" {
   bucket_prefix = var.bucket_prefix
   acl = var.acl
   
